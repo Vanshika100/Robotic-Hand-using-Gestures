@@ -63,5 +63,3 @@ void setServoPositions() {
   ringServo.write(ringAngle);
   pinkyServo.write(pinkyAngle);
 }
-
-
